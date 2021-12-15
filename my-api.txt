@@ -1,0 +1,9 @@
+Link Heroku :
+https://shielded-reaches-37167.herokuapp.com/
+
+Link Endpoint 
+- GET ALL     : https://shielded-reaches-37167.herokuapp.com/todos
+- GET BY ID   : https://shielded-reaches-37167.herokuapp.com/todos/:id
+- POST        : https://shielded-reaches-37167.herokuapp.com/todos
+- UPDATE      : https://shielded-reaches-37167.herokuapp.com/todos/:id
+- DELETE      : https://shielded-reaches-37167.herokuapp.com/todos/:id
